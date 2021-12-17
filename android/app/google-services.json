@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "593111145549",
+    "project_id": "nottrello-b49bd",
+    "storage_bucket": "nottrello-b49bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593111145549:android:6cf696d14ffdebebdbd004",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593111145549-9jtgvktjhiq6rpcmbg1iipoecse560dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.exp.exponent",
+            "certificate_hash": "da9e7cc88e2227f7573c19cda1ed8c7d36c658e9"
+          }
+        },
+        {
+          "client_id": "593111145549-q0msq6du8bcvhnnamiq0hihv2vl1u33b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgch3uUgQ1evu0GEVouU1vcRzCCFyZUbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593111145549-q0msq6du8bcvhnnamiq0hihv2vl1u33b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
